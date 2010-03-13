@@ -2,7 +2,7 @@ Format is tab separated skeinforge settings.
 Name                          	Value
 WindowPosition	0+21
 WindowVisibilities
-Open File for Skeinforge	/home/james/Downloads/Diagonal-tie-bracket-1.1.stl
+Open File for Skeinforge	/home/james/Downloads/11t17p.stl
 analyze	False
 craft	True
 help	False
