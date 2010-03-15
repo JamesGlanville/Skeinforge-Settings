@@ -1,8 +1,8 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
-WindowPosition	0+21
+WindowPosition	107+21
 WindowVisibilities
-Open File for Skeinforge	/home/james/Downloads/reprap-mendel-20100308/mendel/mechanics/solid-models/cartesian-robot-m4/printed-parts/frame-vertex_6off.stl
+Open File for Skeinforge	/home/james/objects/39t17p.stl
 analyze	False
 craft	True
 help	False
