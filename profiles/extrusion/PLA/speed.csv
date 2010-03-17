@@ -13,6 +13,6 @@ Feed Rate (mm/s):	14.0
 Flow Rate Setting (float):	15.5
 Maximum Z Feed Rate (mm/s):	1.0
 Orbital Feed Rate over Operating Feed Rate (ratio):	0.5
-Perimeter Feed Rate over Operating Feed Rate (ratio):	1.0
-Perimeter Flow Rate over Operating Flow Rate (ratio):	1.0
+Perimeter Feed Rate over Operating Feed Rate (ratio):	0.8
+Perimeter Flow Rate over Operating Flow Rate (ratio):	0.7
 Travel Feed Rate (mm/s):	14.0
