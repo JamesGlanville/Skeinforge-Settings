@@ -2,7 +2,7 @@ Format is tab separated skeinforge settings.
 Name                          	Value
 WindowPosition	107+21
 WindowVisibilities
-Open File for Skeinforge	/home/james/objects/39t17p.stl
+Open File for Skeinforge	/home/james/serenity.stl
 analyze	False
 craft	True
 help	False
